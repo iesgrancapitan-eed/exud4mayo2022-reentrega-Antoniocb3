@@ -18,7 +18,7 @@ public class EdadErroneaException extends Exception {
 	 * 
 	 * @param message mensaje
 	 */
-	public EdadErroneaException(String message) {
-		super(message);
+	public EdadErroneaException(String messages) {
+		super(messages);
 	}
 }
