@@ -27,6 +27,8 @@
 12. Extrae una superclase "Mascota" a partir de la clase "Perro". Incluye todo lo relacionado con el nombre de la mascota.
 13. Añade el diálogo de la refactorización con todo debidamente marcado
 
+![img1](img1.PNG)
+![img2](img2.PNG)
 
 
 14. Realiza un commit con el mensaje "refactor: Mascota "
@@ -54,7 +56,7 @@
 
 ## GitHub Pages
 
-23. Sube el repositorio a GitHub (Añade aquí la url) y activa el hosting (GitHub Pages)(Añade aquí la url). Selecciona la carpeta docs como inicio
+23. Sube el repositorio a GitHub (https://github.com/iesgrancapitan-eed/exud4mayo2022-reentrega-Antoniocb3) y activa el hosting (https://iesgrancapitan-eed.github.io/exud4mayo2022-reentrega-Antoniocb3/com/acb/eed/examen/OptimizacionYDocumentacion/package-summary.html). Selecciona la carpeta docs como inicio
 
 ## BitBucket
 
